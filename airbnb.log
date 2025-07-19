@@ -1,0 +1,19 @@
+INFO 2025-07-19 18:26:37,557 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:28:53,469 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:29:17,973 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:29:18,809 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:30:27,829 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:30:31,089 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:31:11,665 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:31:15,962 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:31:28,088 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:31:29,276 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:31:50,429 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:31:51,450 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:34:39,685 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:34:48,378 django [2025-07-19 15:34:43] Anonymous - 127.0.0.1 - Unknown Location - GET /api/bookings/
+WARNING 2025-07-19 18:34:48,522 django.request Unauthorized: /api/bookings/
+INFO 2025-07-19 18:34:48,523 django.server - Broken pipe from ('127.0.0.1', 63408)
+INFO 2025-07-19 18:34:51,289 django [2025-07-19 15:34:46] Anonymous - 127.0.0.1 - Unknown, Unknown - GET /
+WARNING 2025-07-19 18:34:51,328 django.request Not Found: /
+WARNING 2025-07-19 18:34:51,331 django.server "GET / HTTP/1.1" 404 3792
