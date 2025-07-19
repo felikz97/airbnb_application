@@ -6,11 +6,12 @@ from django.views.decorators.cache import cache_page
 from django.utils.decorators import method_decorator
 from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework import filters
+from rest_framework.permissions import AllowAny
 
 class PropertyViewSet(viewsets.ModelViewSet):
     queryset = Property.objects.all()
     serializer_class = PropertySerializer
-    permission_classes = [permissions.IsAuthenticatedOrReadOnly]
+    permission_classes = [AllowAny]  # Public read access
     filter_backends = [DjangoFilterBackend, filters.SearchFilter]
     filterset_fields = ['location', 'price_per_night']
     search_fields = ['title', 'description']

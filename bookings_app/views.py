@@ -3,6 +3,8 @@ from rest_framework import viewsets, permissions, status
 from rest_framework.response import Response
 from .models import Booking
 from .serializers import BookingSerializer
+from rest_framework.permissions import IsAuthenticated
+from rest_framework.exceptions import PermissionDenied
 
 logger = logging.getLogger('bookings')
 
@@ -19,8 +21,10 @@ class BookingViewSet(viewsets.ModelViewSet):
         return Booking.objects.filter(guest=user)
 
     def perform_create(self, serializer):
-        booking = serializer.save(guest=self.request.user)
-        logger.info("Booking %s created by user %s", booking.id, self.request.user.username)
+        if self.request.user.is_authenticated:
+            serializer.save(guest=self.request.user)
+        else:
+            raise PermissionDenied("You must be logged in to create a booking.")
 
     def destroy(self, request, *args, **kwargs):
         instance = self.get_object()
