@@ -140,8 +140,11 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'core_app.middleware.LogRequestMiddleware',
+    'core_app.middleware.LogRequestMiddleware',  # Custom middleware for logging requests
+    'corsheaders.middleware.CorsMiddleware',  # If using CORS headers
+    
 ]
+
 
 ROOT_URLCONF = 'airbnb_application.urls'
 

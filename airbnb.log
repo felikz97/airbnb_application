@@ -17,3 +17,94 @@ INFO 2025-07-19 18:34:48,523 django.server - Broken pipe from ('127.0.0.1', 6340
 INFO 2025-07-19 18:34:51,289 django [2025-07-19 15:34:46] Anonymous - 127.0.0.1 - Unknown, Unknown - GET /
 WARNING 2025-07-19 18:34:51,328 django.request Not Found: /
 WARNING 2025-07-19 18:34:51,331 django.server "GET / HTTP/1.1" 404 3792
+INFO 2025-07-19 18:37:27,780 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:37:28,883 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:37:58,793 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:38:00,171 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:38:18,411 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:38:19,695 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:38:37,179 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:38:38,784 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:38:42,144 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:38:43,124 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:38:54,565 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:38:55,614 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:41:15,310 django.utils.autoreload D:\ALX_Studies\airbnb_application\core_app\models.py changed, reloading.
+INFO 2025-07-19 18:41:16,317 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:41:36,720 django.utils.autoreload D:\ALX_Studies\airbnb_application\core_app\models.py changed, reloading.
+INFO 2025-07-19 18:41:38,535 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:42:26,960 django.utils.autoreload D:\ALX_Studies\airbnb_application\core_app\models.py changed, reloading.
+INFO 2025-07-19 18:42:28,597 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:42:40,465 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:42:42,228 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:42:44,627 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:42:46,264 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:43:00,034 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:43:02,573 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:43:28,186 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:43:30,303 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:43:40,099 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:43:42,306 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:44:32,423 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:44:34,242 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:47:46,291 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:47:48,395 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:48:06,918 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:48:08,895 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:48:11,035 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:48:13,305 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:48:17,580 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:48:19,218 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:48:21,467 django.utils.autoreload D:\ALX_Studies\airbnb_application\airbnb_application\settings.py changed, reloading.
+INFO 2025-07-19 18:48:23,225 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-07-19 18:49:13,311 django [2025-07-19 15:49:12] Anonymous - 127.0.0.1 - Unknown, Unknown - GET /api/properties/
+INFO 2025-07-19 18:49:13,702 django.server "GET /api/properties/ HTTP/1.1" 200 11756
+INFO 2025-07-19 18:49:13,739 django.server "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,750 django.server "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,760 django.server "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,768 django.server "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,769 django.server "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,772 django.server "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,772 django.server "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,773 django.server "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,777 django.server "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,782 django.server "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,783 django.server "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,802 django.server "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2025-07-19 18:49:13,964 django.server "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+INFO 2025-07-19 18:49:18,586 django [2025-07-19 15:49:17] Anonymous - 127.0.0.1 - Unknown, Unknown - OPTIONS /api/properties/
+INFO 2025-07-19 18:49:18,593 django.server "OPTIONS /api/properties/ HTTP/1.1" 200 10422
+INFO 2025-07-19 18:49:34,875 django [2025-07-19 15:49:33] Anonymous - 127.0.0.1 - Unknown, Unknown - OPTIONS /api/properties/
+INFO 2025-07-19 18:49:34,883 django.server "OPTIONS /api/properties/ HTTP/1.1" 200 10422
+INFO 2025-07-19 18:49:37,190 django [2025-07-19 15:49:36] Anonymous - 127.0.0.1 - Unknown, Unknown - OPTIONS /api/properties/
+INFO 2025-07-19 18:49:37,199 django.server "OPTIONS /api/properties/ HTTP/1.1" 200 10422
+INFO 2025-07-19 18:49:38,057 django [2025-07-19 15:49:37] Anonymous - 127.0.0.1 - Unknown, Unknown - OPTIONS /api/properties/
+INFO 2025-07-19 18:49:38,071 django.server "OPTIONS /api/properties/ HTTP/1.1" 200 10422
+INFO 2025-07-19 18:49:43,593 django [2025-07-19 15:49:42] Anonymous - 127.0.0.1 - Unknown, Unknown - GET /
+WARNING 2025-07-19 18:49:43,611 django.request Not Found: /
+WARNING 2025-07-19 18:49:43,613 django.server "GET / HTTP/1.1" 404 3792
+INFO 2025-07-19 18:49:53,782 django [2025-07-19 15:49:52] Anonymous - 127.0.0.1 - Unknown, Unknown - GET /swagger/
+INFO 2025-07-19 18:49:54,062 django.server "GET /swagger/ HTTP/1.1" 200 2219
+INFO 2025-07-19 18:49:54,104 django.server "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+INFO 2025-07-19 18:49:54,198 django.server "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+INFO 2025-07-19 18:49:54,227 django.server "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+INFO 2025-07-19 18:49:54,373 django.server "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+INFO 2025-07-19 18:49:54,375 django.server "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+INFO 2025-07-19 18:49:54,521 django.server "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+INFO 2025-07-19 18:49:54,560 django.server "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+INFO 2025-07-19 18:49:55,679 django [2025-07-19 15:49:54] Anonymous - 127.0.0.1 - Unknown, Unknown - GET /swagger/
+DEBUG 2025-07-19 18:49:55,699 bookings User  accessed their bookings.
+DEBUG 2025-07-19 18:49:55,829 bookings User  accessed their bookings.
+DEBUG 2025-07-19 18:49:55,843 bookings User  accessed their bookings.
+DEBUG 2025-07-19 18:49:55,855 bookings User  accessed their bookings.
+INFO 2025-07-19 18:49:55,888 django.server "GET /swagger/?format=openapi HTTP/1.1" 200 14441
+INFO 2025-07-19 18:50:05,740 django [2025-07-19 15:50:04] Anonymous - 127.0.0.1 - Unknown, Unknown - GET /redoc/
+INFO 2025-07-19 18:50:05,845 django.server "GET /redoc/ HTTP/1.1" 200 933
+INFO 2025-07-19 18:50:05,925 django.server "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 200 2566
+INFO 2025-07-19 18:50:05,975 django.server "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 200 1042511
+INFO 2025-07-19 18:50:07,058 django [2025-07-19 15:50:06] Anonymous - 127.0.0.1 - Unknown, Unknown - GET /redoc/
+DEBUG 2025-07-19 18:50:07,073 bookings User  accessed their bookings.
+DEBUG 2025-07-19 18:50:07,096 bookings User  accessed their bookings.
+DEBUG 2025-07-19 18:50:07,107 bookings User  accessed their bookings.
+DEBUG 2025-07-19 18:50:07,113 bookings User  accessed their bookings.
+INFO 2025-07-19 18:50:07,141 django.server "GET /redoc/?format=openapi HTTP/1.1" 200 14441
